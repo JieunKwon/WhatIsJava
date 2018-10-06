@@ -22,3 +22,7 @@
 
 > 6. Inheritance
   - It is the process where one object acquires the properties of another. With the use of inheritance the information is made manageable     in a hierarchical order. 
+
+> 7. Polymorphism 
+  - the ability of an object to take on many forms. 
+   The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
