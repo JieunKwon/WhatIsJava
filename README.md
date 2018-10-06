@@ -37,8 +37,14 @@
   
   - The primary benefit of Encapsulation is the ability to modify our implemented code without breaking the code of others who use our      code. With this Encapsulation gives maintainability, flexibility and extensibility to our code.
 
-> 10. Interface
+> 10. Abstract class & Method
+  - cannot be instantiated and are either partially implemented or not at all implemented. 
+  This class contains one or more abstract methods which are simply method declarations without a body.
+ 
+  If a class contains a particular method but the actual implementation of that method is determined by child classes. it declares the     method in the parent class as abstract.
+
+> 11. Interface
   - a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.
 
 > 12. Packages
-  - A Package can be defined as a grouping of related types(classes, interfaces, enumerations and annotations ) providing access protection and name space management.
+  - A Package can be defined as a grouping of related types(classes, interfaces, enumerations and annotations ) providing access         protection and name space management.
