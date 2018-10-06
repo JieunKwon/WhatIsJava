@@ -21,12 +21,16 @@
   - initialized
 
 > 6. Inheritance
-  - It is the process where one object acquires the properties of another. With the use of inheritance the information is made manageable     in a hierarchical order. 
+  - It is the process where one object acquires the properties of another. With the use of inheritance the information is made        manageable in a hierarchical order. 
 
 > 7. Polymorphism 
   - the ability of an object to take on many forms. 
    The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
 
-> Abstraction
+> 8. Abstraction
   - It refers to the ability to make a class abstract in OOP. 
   It helps to reduce the complexity and also improves the maintainability of the system.
+
+> 9. Encapsulation
+  - It is the technique of making the fields in a class private and providing access to the fields via public methods. 
+  If a field is declared private, it cannot be accessed by anyone outside the class, thereby hiding the fields within the class.           Therefore encapsulation is also referred to as data hiding.
