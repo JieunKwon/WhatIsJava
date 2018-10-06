@@ -20,3 +20,5 @@
   - instantiated
   - initialized
 
+> 6. Inheritance
+  It is the process where one object acquires the properties of another. With the use of inheritance the information is made manageable in   a hierarchical order. 
