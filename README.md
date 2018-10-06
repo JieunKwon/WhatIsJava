@@ -36,3 +36,6 @@
   If a field is declared private, it cannot be accessed by anyone outside the class, thereby hiding the fields within the class.           Therefore encapsulation is also referred to as data hiding.
   
   - The primary benefit of Encapsulation is the ability to modify our implemented code without breaking the code of others who use our      code. With this Encapsulation gives maintainability, flexibility and extensibility to our code.
+  
+> Packages
+  - A Package can be defined as a grouping of related types(classes, interfaces, enumerations and annotations ) providing access protection and name space management.
