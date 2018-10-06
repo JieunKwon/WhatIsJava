@@ -8,5 +8,9 @@
 2. Java features 
   - Object Oriented, Platform Independent, Robust, Interpreted, and Multi-threaded
  
-3. What do you mean by Object? 
+3. Object
   - Object is a runtime entity and it’s state is stored in fields and behavior is shown via methods. Methods operate on an object's          internal state and serve as the primary mechanism for object-to-object communication.
+
+4. class 
+  - is a blue print from which individual objects are created. 
+   A class can contain fields and methods to describe the behavior of an object.
