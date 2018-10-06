@@ -41,7 +41,7 @@
   - cannot be instantiated and are either partially implemented or not at all implemented. 
   This class contains one or more abstract methods which are simply method declarations without a body.
  
-  If a class contains a particular method but the actual implementation of that method is determined by child classes. it declares the     method in the parent class as abstract.
+  - If a class contains a particular method but the actual implementation of that method is determined by child classes. it declares        the method in the parent class as abstract.
 
 > 11. Interface
   - a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.
