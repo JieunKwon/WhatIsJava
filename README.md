@@ -26,3 +26,7 @@
 > 7. Polymorphism 
   - the ability of an object to take on many forms. 
    The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
+
+> Abstraction
+  - It refers to the ability to make a class abstract in OOP. 
+  It helps to reduce the complexity and also improves the maintainability of the system.
