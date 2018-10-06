@@ -11,6 +11,12 @@
 3. Object
   - Object is a runtime entity and it’s state is stored in fields and behavior is shown via methods. Methods operate on an object's          internal state and serve as the primary mechanism for object-to-object communication.
 
-4. class 
+4. Class 
   - is a blue print from which individual objects are created. 
    A class can contain fields and methods to describe the behavior of an object.
+
+5. Steps for creating an Object for a class?
+  - An Object is first declared
+  - instantiated
+  - initialized
+
