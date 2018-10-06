@@ -34,3 +34,5 @@
 > 9. Encapsulation
   - It is the technique of making the fields in a class private and providing access to the fields via public methods. 
   If a field is declared private, it cannot be accessed by anyone outside the class, thereby hiding the fields within the class.           Therefore encapsulation is also referred to as data hiding.
+  
+  - The primary benefit of Encapsulation is the ability to modify our implemented code without breaking the code of others who use our      code. With this Encapsulation gives maintainability, flexibility and extensibility to our code.
