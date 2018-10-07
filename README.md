@@ -46,7 +46,10 @@
 > 11. Interface
   - a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.
 
-> 12. Packages
+> 12. Super keyword 
+   - If the method overrides one of its superclass's methods, overridden method can be invoked through the use of the keyword super. It can be also used to refer to a hidden field.
+    
+> 13. Packages
   - A Package can be defined as a grouping of related types(classes, interfaces, enumerations and annotations ) providing access         protection and name space management.
   
-> 13. 
+> 14. 
