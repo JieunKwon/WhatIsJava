@@ -1,9 +1,12 @@
 #  What is Java
 
   -  Describe and define about Java
+  
 > JRE .Java Runtime Environment.
-It is an implementation of the Java Virtual Machine which executes Java programs. It provides the minimum requirements for executing a Java application.
-> 
+  - It is an implementation of the Java Virtual Machine which executes Java programs. It provides the minimum requirements for executing  a Java application.
+
+> JVM .Java Vitual Machine.
+  - 
 
 > 1. What is Java?
   - Java is a high-level programming language originally developed by Sun Microsystems and released in 1995. Java runs on a variety of         platforms, such as Windows, Mac OS, and the various versions of UNIX.
