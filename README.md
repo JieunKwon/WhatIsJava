@@ -52,4 +52,6 @@
 > 13. Packages
   - A Package can be defined as a grouping of related types(classes, interfaces, enumerations and annotations ) providing access         protection and name space management.
   
+  - Packages are used to prevent naming conflicts, to control access, to make searching/locating and usage of classes, interfaces, enumerations and annotations, etc., easier.
+  
 > 14. 
