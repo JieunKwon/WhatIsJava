@@ -77,4 +77,6 @@ JVMs are available for many hardware and software platforms (so JVM is platform 
     main() − this method is called at the beginning of a Java program.
     String args[ ] − args parameter is an instance array of class String
 
-> 15. 
+> 15. Method overloading
+
+    If a class has multiple functions by same name but different parameters, the method is overloaded
