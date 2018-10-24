@@ -80,3 +80,8 @@ JVMs are available for many hardware and software platforms (so JVM is platform 
 > 15. Method overloading
 
     If a class has multiple functions by same name but different parameters, the method is overloaded
+
+> 16. overriding
+
+    If a subclass provides a specific implementation of a method that is already provided by its parent class, 
+    it is known as Method Overriding.
