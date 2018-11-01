@@ -71,11 +71,11 @@ JVMs are available for many hardware and software platforms (so JVM is platform 
 > 14. public static void main (String args[ ])
 
    The following shows the explanation individually −
-   public − it is the access specifier.
-   static − it allows main() to be called without instantiating a particular instance of a class.
-   void − it affirns the compiler that no value is returned by main().
-   main() − this method is called at the beginning of a Java program.
-   String args[ ] − args parameter is an instance array of class String
+   - public − it is the access specifier.
+   - static − it allows main() to be called without instantiating a particular instance of a class.
+   - void − it affirns the compiler that no value is returned by main().
+   - main() − this method is called at the beginning of a Java program.
+   - String args[ ] − args parameter is an instance array of class String
 
 > 15. Method overloading
 
