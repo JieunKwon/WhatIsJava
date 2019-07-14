@@ -5,7 +5,8 @@
  
 
 > JVM .Java Vitual Machine.
-  - it is an abstract machine which provides the runtime environment in which Java bytecode can be executed. It is a specification which specifies the working of Java Virtual Machine. Its implementation has been provided by Oracle and other companies. Its implementation is known as JRE. 
+  - it is an abstract machine which provides the runtime environment in which Java bytecode can be executed. 
+It is a specification which specifies the working of Java Virtual Machine. It’s implementation has been provided by Oracle and other companies. Its implementation is known as JRE. 
 JVMs are available for many hardware and software platforms (so JVM is platform dependent). It is a runtime instance which is created when we run the Java class. There are three notions of the JVM: specification, implementation, and instance.
 
 > JRE
